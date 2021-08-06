@@ -11,7 +11,7 @@ redirect_from:
 
 In Cube.js, your data schema is code, and code is much easier to manage when it
 is in small, digestible chunks. It is best practice to keep files small and
-containing only relevant and not duplicated code. As your data schema grows,
+containing only relevant and non-duplicated code. As your data schema grows,
 maintaining and debugging is much easier with a well-organized codebase.
 
 Cube.js supports ES6 style [`export`][mdn-js-es6-export] and
