@@ -91,7 +91,6 @@ These recipes will show you the best practices of using Cube.js.
 ### Data schema
 
 - [Dynamically Union Tables](/recipes/dynamically-union-tables)
-- [Data Blending](/recipes/data-blending)
 
 ### Query acceleration
 
@@ -99,7 +98,4 @@ These recipes will show you the best practices of using Cube.js.
 
 ### Code reusability
 
-- [Export and Import](/recipes/export-import)
-- [Extending Cubes](/recipes/extending-cubes)
 - [Schema Generation](/recipes/schema-generation)
-- [Polymorphic Cubes](/recipes/polymorphic-cubes)
